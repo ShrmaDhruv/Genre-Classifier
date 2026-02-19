@@ -1,0 +1,13 @@
+pandas
+scikit-learn
+numpy
+librosa
+matplotlib
+soundfile
+torch --index-url https://download.pytorch.org/whl/cu121
+torchvision
+torchaudio
+seaborn
+streamlit
+tensorflow
+tensorflow_hub

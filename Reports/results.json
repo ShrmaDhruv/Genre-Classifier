@@ -1,0 +1,25 @@
+{
+    "model_type": "resnet18",
+    "best_val_acc": 92.85237140948564,
+    "test_acc": 93.1909212283044,
+    "num_epochs_trained": 35,
+    "best_epoch": 25,
+    "class_names": [
+        "blues",
+        "classical",
+        "country",
+        "disco",
+        "hiphop",
+        "jazz",
+        "metal",
+        "pop",
+        "reggae",
+        "rock"
+    ],
+    "batch_size": 64,
+    "image_size": 224,
+    "learning_rate": 0.001,
+    "train_samples": 6987,
+    "val_samples": 1497,
+    "test_samples": 1498
+}
